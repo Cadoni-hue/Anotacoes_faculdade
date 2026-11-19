@@ -1,7 +1,6 @@
-Monitoramento VS Observabilidade
+ Monitoramento VS Observabilidade
 	monitoramento
 		Reativo
-		
 	observabilidade
 		invesatigativo
 		ele procura o porque do Erro
