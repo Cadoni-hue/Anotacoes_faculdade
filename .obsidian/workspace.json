@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9b868a31ed837b85",
+        "id": "ca7a97fc11cad313",
         "type": "tabs",
         "children": [
           {
-            "id": "5663212dce730364",
+            "id": "8420fdfdcca8177c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materiais.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Materiais"
+              "title": "Nova aba"
             }
           }
         ]
@@ -186,24 +182,29 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "5663212dce730364",
+  "active": "718764314795376c",
   "lastOpenFiles": [
+    "Livros_pdf/NET.pdf",
+    "RoadMap-engenharia/roadmap-engenharia-arquitetura-software.canvas",
+    "RoadMap-engenharia/roadmap-engenharia-arquitetura-software.md",
+    "RoadMap-engenharia",
     "Road Map.canvas",
     "Materiais.md",
-    "Livros_pdf/NET.pdf",
-    "NET.pdf",
-    "Não confirmado 397085.crdownload",
-    "Livros_pdf",
     "Engenharia de Software/Arquitetura de Software.md",
-    "Conceitos e Praticas CLOUD/Monitoramento Logg e Observabilidade.md",
+    "Engenharia de Software/Sem título.md",
+    "Livros_pdf",
     "Analise_e_modelagem_de_sistemas/Data Warehousing.md",
+    "workspace.json",
     "RPA/Email e API REST.md",
+    "Engenharia de Software",
     "Conceitos e Praticas CLOUD/Balanceamento de Carga.md",
+    "Conceitos e Praticas CLOUD/Monitoramento Logg e Observabilidade.md",
     "Conceitos e Praticas CLOUD/IaC (Infraestrutura como Codigo).md",
     "Conceitos e Praticas CLOUD/FinOps e Otimizacao de Custo.md",
     "IOT",
     "Engenharia de Software",
     "RPA",
+    "Sem título.md",
     "1 semestre/Java Script/Variaveis e tipos primitivos.md",
     "1 semestre/Java Script/Operadores.md",
     "JAVA/Sem título.md",

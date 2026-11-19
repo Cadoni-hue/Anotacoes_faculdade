@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"cc23de4987136a51","type":"text","text":"Fase 0\n(entender como o sistema funciona)","x":-380,"y":0,"width":283,"height":101},
-		{"id":"3d9c16704b9d5f56","type":"text","text":"# Videos/Livros\n[[Materiais]]\n","x":-300,"y":260,"width":222,"height":110},
-		{"id":"393a618b8f880beb","x":-380,"y":-220,"width":283,"height":80,"type":"text","text":"Fase 1\n(Como bem feito)"}
-	],
-	"edges":[]
-}
